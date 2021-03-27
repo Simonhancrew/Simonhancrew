@@ -1,4 +1,6 @@
-### Hi there 👋
+### <center> always a begginer </center>
+
+### ![jump](dino.gif)
 
 <!--
 **Simonhancrew/Simonhancrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
