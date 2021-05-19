@@ -1,7 +1,7 @@
 ### <center> always a begginer </center>
 
 ### ![jump](dino.gif)
-- 📫 How to reach me: [weibo](https://weibo.com/u/5340428841)
+- 📫 How to reach me: 597494370@qq.com
 <!--
 **Simonhancrew/Simonhancrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
