@@ -1,6 +1,7 @@
 ### <center> always a begginer </center>
 
 ### ![jump](dino.gif)
+- 🤔 Still at school,base on China.
 - 📫 How to reach me: simonhan96cc@gmail.com
 <!--
 **Simonhancrew/Simonhancrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
